@@ -662,7 +662,7 @@ __webpack_require__.r(__webpack_exports__);///模块加载
 /* harmony import */ var _ContextPadExtension__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ContextPadExtension */ "./client/bpmn-js-extension/ContextPadExtension.js");
 /* harmony import */ var _CreateTemplatedElementsService__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CreateTemplatedElementsService */ "./client/bpmn-js-extension/CreateTemplatedElementsService.js");
 /* harmony import */ var _PaletteExtension__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./PaletteExtension */ "./client/bpmn-js-extension/PaletteExtension.js");
-///* harmony import */ var _RenderExtension__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./PaletteExtension */ "./client/bpmn-js-extension/RenderExtension.js");
+/* harmony import */ var _RenderExtension__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./PaletteExtension */ "./client/bpmn-js-extension/RenderExtension.js");
 
 ///模块加载变量
 
