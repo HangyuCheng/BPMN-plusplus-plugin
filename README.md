@@ -5,4 +5,4 @@
 
 ## TABLEⅡ BPMN++ Questionnaire
 
-
+![image](https://github.com/HangyuCheng/BPMN-plusplus-plugin/blob/main/resources/result/table2.png)
